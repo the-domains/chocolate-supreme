@@ -6,9 +6,9 @@ color:
   saturation: 0.8703817494679242
   rhythmicContrast: 0.9264690668787807
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#F8F8FA'
+    - '#000000'
+    - '#B57900'
+    - '#3A3A44'
+    - '#ABAABA'
 name: Chocolate Supreme
