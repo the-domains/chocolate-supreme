@@ -1,8 +1,24 @@
-typography_spectrum: 0.6341137085109949
+author:
+  name: Mattimore Cronin
+  email: mattimorecronin@gmail.com
+  url: chocolatesupreme.co
+title: Chocolate Supreme
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Chocolate Lovers Welcome
 color:
-  brandStrength: 0.12285656970925629
-  lightness: 0.13310888968408108
   saturation: 0.8703817494679242
+  brandStrength: 0.1228565697092563
   rhythmicContrast: 0.9264690668787807
   brandColors:
     - '#F8F8FA'
@@ -10,11 +26,7 @@ color:
     - '#B57900'
     - '#3A3A44'
     - '#ABAABA'
-layout_spectrum: 0.4675305965356529
-author:
-  name: Mattimore Cronin
-  email: mattimorecronin@gmail.com
-  url: chocolatesupreme.co
+  lightness: 0.1331088896840811
+typography_spectrum: 0.4468085
+layout_spectrum: 0.1276596
 name: Chocolate Supreme
-title: Chocolate Supreme
-description: Chocolate Lovers Welcome
